@@ -24,19 +24,28 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="28" /> &nbsp;About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="120" />
+<table>
+<tr>
+<td>
 
-🔹 **Full Stack Software Developer** at **Freckles Graphics, Inc.** — building **eFORCE**, a B2B apparel management platform with Django, REST APIs & Stripe
+- **Full Stack Software Developer** at **Freckles Graphics, Inc.** — building **eFORCE**, a B2B apparel management platform with Django, REST APIs & PostgreSQL
 
-🔹 **College Instructor** at **St. Mary's College of Tagum** — teaching AI, Software Engineering & IT courses
+- **College Instructor** at **St. Mary's College of Tagum** — teaching AI, Software Engineering & IT courses
 
-🔹 **Academic Researcher & Consultant** — 7+ years designing research instruments, analyzing datasets & producing documentation
+- **Academic Researcher & Consultant** — 7+ years designing research instruments, analyzing datasets & producing documentation
 
-🔹 **Law Student** — pursuing **Master in Legal Studies - Juris Doctor (MLS-JD)**
+- **Law Student** — pursuing **Master in Legal Studies - Juris Doctor (MLS-JD)**
 
-🔹 **Harvard Online** — completed Artificial Intelligence with Python
+- **Harvard Online** — completed Artificial Intelligence with Python
 
-<br clear="right"/>
+</td>
+<td width="300">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="280" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -198,10 +207,6 @@
 <br><b>REST APIs</b>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" alt="Stripe" width="48" height="48" />
-<br><b>Stripe</b>
-</td>
-<td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
 <br><b>VS Code</b>
 </td>
@@ -296,13 +301,13 @@
 | | Degree | Institution | Period |
 |:---:|--------|-------------|--------|
 | ⚖️ | **Master in Legal Studies - Juris Doctor (MLS-JD)** | St. Mary's College of Tagum, Inc. | `2025 – 2030` |
-| 🤖 | **Artificial Intelligence with Python** | Harvard Online | `2025` |
+| 🤖 | **Artificial Intelligence with Python** *(Online Course)* | Harvard Online | `2025` |
 | 💻 | **BSc Computer Science** — Data Science | St. Mary's College of Tagum, Inc. | `2019 – 2023` |
 | 🔧 | **Computer System Servicing (CSS)** | Lorenzo S. Sarmiento Sr. National High School | `2016 – 2019` |
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> &nbsp;Certifications & Honors
+## 🏅 Certifications & Honors
 
 🏅 IP System and IP Policy Development Workshop Certificate
 🏅 Java Programming For Complete Beginners Using Eclipse IDE
@@ -310,7 +315,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Americas.png" width="28" /> &nbsp;Languages & Soft Skills
+## 🌐 Languages & Soft Skills
 
 <div align="center">
 
