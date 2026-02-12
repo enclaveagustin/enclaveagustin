@@ -36,8 +36,6 @@
 
 - **Law Student** — pursuing **Master in Legal Studies - Juris Doctor (MLS-JD)**
 
-- **Harvard Online** — completed Artificial Intelligence with Python
-
 </td>
 <td width="300">
 
@@ -339,12 +337,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enclaveagustin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&icon_color=4a6fa5&text_color=c8d6e5" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=enclaveagustin&theme=tokyonight&hide_border=true&background=0D1117&stroke=4a6fa5&ring=4a6fa5&fire=FF6C37&currStreakLabel=c8d6e5&sideLabels=c8d6e5&dates=6b7c93" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enclaveagustin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&icon_color=4a6fa5&text_color=c8d6e5&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=enclaveagustin&theme=tokyonight&hide_border=true&background=0D1117&stroke=4a6fa5&ring=4a6fa5&fire=FF6C37&currStreakLabel=c8d6e5&sideLabels=c8d6e5&dates=6b7c93" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enclaveagustin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&text_color=c8d6e5" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enclaveagustin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&text_color=c8d6e5&count_private=true" />
 
 </div>
 
