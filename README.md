@@ -16,7 +16,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=enclaveagustin&style=for-the-badge&color=1a2744)
+![Profile Views](https://komarev.com/ghpvc/?username=enclaveagustin&style=for-the-badge&color=1a2744&label=PROFILE+VIEWS)
 
 </div>
 
@@ -99,6 +99,26 @@
 <br><b>C#</b>
 </td>
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
+<br><b>C</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
+<br><b>C++</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="48" height="48" />
+<br><b>JSON</b>
+</td>
+<td align="center" width="96">
+</td>
+<td align="center" width="96">
+</td>
+<td align="center" width="96">
+</td>
+<td align="center" width="96">
 </td>
 <td align="center" width="96">
 </td>
@@ -160,6 +180,12 @@
 <br><b>Alpine.js</b>
 </td>
 </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
+<br><b>TensorFlow</b>
+</td>
+</tr>
 </table>
 
 ### 🗄️ Databases
@@ -181,6 +207,14 @@
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
 <br><b>MongoDB</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="48" height="48" />
+<br><b>Supabase</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" width="48" height="48" />
+<br><b>Firebase</b>
 </td>
 </tr>
 </table>
@@ -208,6 +242,10 @@
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
 <br><b>VS Code</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" />
+<br><b>Figma</b>
 </td>
 </tr>
 </table>
