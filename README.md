@@ -36,6 +36,7 @@
 
 - **Law Student** — pursuing **Master in Legal Studies - Juris Doctor (MLS-JD)**
 
+
 </td>
 <td width="300">
 
@@ -328,21 +329,6 @@
 ![Research & Documentation](https://img.shields.io/badge/Research_&_Documentation-1a2744?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-1a2744?style=for-the-badge)
 ![Technical Communication](https://img.shields.io/badge/Technical_Communication-1a2744?style=for-the-badge)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" /> &nbsp;GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enclaveagustin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&icon_color=4a6fa5&text_color=c8d6e5&count_private=true&v=2" />
-<img width="49%" src="https://streak-stats.demolab.com?user=enclaveagustin&theme=tokyonight&hide_border=true&background=0D1117&stroke=4a6fa5&ring=4a6fa5&fire=FF6C37&currStreakLabel=c8d6e5&sideLabels=c8d6e5&dates=6b7c93" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enclaveagustin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&text_color=c8d6e5&count_private=true&v=2" />
 
 </div>
 
