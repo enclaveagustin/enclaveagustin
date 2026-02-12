@@ -323,14 +323,6 @@
 
 </details>
 
-<details>
-<summary><b>🏭 Sumifru (Philippines) Corporation – Davao — Factory Worker</b>&nbsp;&nbsp;<code>Jul 2016 – Jun 2017</code></summary>
-<br/>
-
-> 📍 Mawab, Davao Region, Philippines
-
-</details>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" /> &nbsp;Education
@@ -341,16 +333,6 @@
 | 🤖 | **Artificial Intelligence with Python** *(Online Course)* | Harvard Online | `2025` |
 | 💻 | **BSc Computer Science** — Data Science | St. Mary's College of Tagum, Inc. | `2019 – 2023` |
 | 🔧 | **Computer System Servicing (CSS)** | Lorenzo S. Sarmiento Sr. National High School | `2016 – 2019` |
-
----
-
-## 🏅 Certifications & Honors
-
-🏅 IP System and IP Policy Development Workshop Certificate
-🏅 Java Programming For Complete Beginners Using Eclipse IDE
-🎖️ **With Honors** — Bachelor of Science in Computer Science
-
----
 
 ## 🌐 Languages & Soft Skills
 
@@ -382,18 +364,5 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 📝 Reference
-
-**Engr. Cleofe L. Calo, ME-ECE**
-*Program Head – Computer Science, SMCTI*
-📞 0915-730-6128
-
-</div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,100:4a6fa5&height=120&section=footer" />
