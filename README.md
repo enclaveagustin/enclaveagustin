@@ -1,77 +1,224 @@
 <div align="center">
 
-# Niño D. Agustin
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,100:4a6fa5&height=220&section=header&text=Niño%20D.%20Agustin&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20College%20Instructor%20%E2%80%A2%20Research%20Professional&descSize=18&descAlignY=55&descColor=c8d6e5&animation=fadeIn" />
 
-### Full Stack Developer • College Instructor • Research Professional
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A6FA5&center=true&vCenter=true&width=600&lines=Bridging+Technology%2C+Education+%26+Law;Full+Stack+Web+%26+Software+Developer;Building+Scalable+B2B+Platforms;7%2B+Years+in+Academic+Research;Currently+Pursuing+Juris+Doctor+(MLS-JD)" alt="Typing SVG" /></a>
 
-*Bridging Technology, Education & Legal System*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jklmnino01)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ninoagustin16@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Mawab,_Davao_de_Oro-333?style=for-the-badge)]()
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/-Niño%20Agustin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jklmnino01)
+[![Gmail](https://img.shields.io/badge/-ninoagustin16-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ninoagustin16@gmail.com)
+[![GitHub](https://img.shields.io/badge/-enclaveagustin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enclaveagustin)
+[![Location](https://img.shields.io/badge/-Davao%20de%20Oro,%20Philippines-25A162?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=enclaveagustin&style=for-the-badge&color=1a2744)
 
 </div>
 
 ---
 
-## 👤 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="28" /> &nbsp;About Me
 
-As a **Full Stack Software Developer** at Freckles Graphics, I contribute to the development of **eFORCE**, a B2B apparel management platform, utilizing my expertise in Python, Django, REST APIs, and PostgreSQL. By collaborating with senior engineers and product teams, I focus on delivering scalable solutions that enhance sales workflows and customer experiences.
+<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="120" />
 
-With over **seven years of experience** in academic research and consultancy, I design research instruments, analyze datasets, and produce comprehensive documentation for organizational and academic clients. As a **College Instructor** at St. Mary's College of Tagum, I teach courses in Artificial Intelligence, Software Engineering, and IT tools, integrating practical skills and mentorship to prepare students for professional success.
+🔹 **Full Stack Software Developer** at **Freckles Graphics, Inc.** — building **eFORCE**, a B2B apparel management platform with Django, REST APIs & Stripe
 
----
+🔹 **College Instructor** at **St. Mary's College of Tagum** — teaching AI, Software Engineering & IT courses
 
-## 🛠️ Tech Stack
+🔹 **Academic Researcher & Consultant** — 7+ years designing research instruments, analyzing datasets & producing documentation
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+🔹 **Law Student** — pursuing **Master in Legal Studies - Juris Doctor (MLS-JD)**
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JSF / PrimeFaces](https://img.shields.io/badge/JSF_/_PrimeFaces-007396?style=for-the-badge&logo=java&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+🔹 **Harvard Online** — completed Artificial Intelligence with Python
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-
-### Stacks
-![MERN](https://img.shields.io/badge/MERN_Stack-00D8FF?style=for-the-badge&logo=mongodb&logoColor=white)
+<br clear="right"/>
 
 ---
 
-## 💼 Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
-### 🏢 Freckles Graphics, Inc.
-**Full Stack Software Developer** · *December 2025 – Present*
-> Lafayette, Indiana Metropolitan Area
+<div align="center">
+
+### 💻 Languages
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<br><b>Python</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+<br><b>Java</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="48" height="48" />
+<br><b>PHP</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="48" height="48" />
+<br><b>Dart</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+<br><b>HTML5</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
+<br><b>CSS3</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="48" height="48" />
+<br><b>SQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" />
+<br><b>C#</b>
+</td>
+<td align="center" width="96">
+</td>
+<td align="center" width="96">
+</td>
+</tr>
+</table>
+
+### ⚡ Frameworks & Libraries
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" />
+<br><b>Django</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" />
+<br><b>FastAPI</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" />
+<br><b>Flask</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="48" height="48" />
+<br><b>Laravel</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48" />
+<br><b>Spring Boot</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="48" height="48" />
+<br><b>.NET</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+<br><b>React</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" />
+<br><b>Vue.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48" />
+<br><b>Express.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" />
+<br><b>Bootstrap</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="48" height="48" />
+<br><b>TailwindCSS</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="48" height="48" />
+<br><b>Alpine.js</b>
+</td>
+</tr>
+</table>
+
+### 🗄️ Databases
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
+<br><b>MySQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48" />
+<br><b>SQLite</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
+<br><b>MongoDB</b>
+</td>
+</tr>
+</table>
+
+### 🔧 DevOps & Tools
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+<br><b>Docker</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+<br><b>Git</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+<br><b>GitHub</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="REST APIs" width="48" height="48" />
+<br><b>REST APIs</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" alt="Stripe" width="48" height="48" />
+<br><b>Stripe</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
+<br><b>VS Code</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Professional Experience
+
+<details open>
+<summary><b>🚀 Freckles Graphics, Inc. — Full Stack Software Developer</b>&nbsp;&nbsp;<code>Dec 2025 – Present</code></summary>
+<br/>
+
+> 📍 Lafayette, Indiana Metropolitan Area
 
 - Develop full-stack features for **eFORCE**, a B2B apparel management platform using Django, Python, REST APIs, and integrated payment systems
 - Built centralized product management system with debounced auto-save, custom image uploads per color/view, and visual design placement positioning tool
@@ -80,104 +227,137 @@ With over **seven years of experience** in academic research and consultancy, I 
 - Built complete order-to-payment pipeline: line items, address resolution, contact lookup, PDF receipts, and error handling
 - Architected automated thumbnail generation reducing external design tool dependency
 
-### 🎓 St. Mary's College of Tagum, Inc.
-**College Instructor** · *January 2025 – Present*
-> Tagum, Davao Region, Philippines
+</details>
 
-- Teach courses in Artificial Intelligence, Software Engineering II, Living in the IT Era, and IT Application Tools
+<details open>
+<summary><b>🎓 St. Mary's College of Tagum, Inc. — College Instructor</b>&nbsp;&nbsp;<code>Jan 2025 – Present</code></summary>
+<br/>
+
+> 📍 Tagum, Davao Region, Philippines
+
+- Teach courses in **Artificial Intelligence**, **Software Engineering II**, Living in the IT Era, and IT Application Tools
 - Develop lesson plans, instructional materials, and assessments aligned with program outcomes
 - Guide students in research writing, APA documentation, and applied IT practices
 - Provide academic coaching, technical assistance, and career-oriented mentorship
 
-### 📊 Freelance | Self-Employed
-**Academic Researcher | Consultant | Statistician** · *June 2018 – Present*
-> Mawab, Davao Region, Philippines
+</details>
+
+<details>
+<summary><b>📊 Freelance — Academic Researcher | Consultant | Statistician</b>&nbsp;&nbsp;<code>Jun 2018 – Present</code></summary>
+<br/>
+
+> 📍 Mawab, Davao Region, Philippines
 
 - Conduct qualitative and quantitative research for various academic and organizational clients
 - Design research instruments, analyze datasets, and prepare complete research documentation
 - Produce studies related to employee management, system development, and organizational performance
 - Support students and institutions with proposal writing, data analysis, and report generation
 
-### 💻 NuevaSolTech Co. Inc.
-**Junior Web Developer** · *July 2023 – November 2025*
-> Tagum, Davao Region, Philippines
+</details>
 
+<details>
+<summary><b>💻 NuevaSolTech Co. Inc. — Multiple Roles</b>&nbsp;&nbsp;<code>Jun 2022 – Nov 2025</code></summary>
+<br/>
+
+> 📍 Tagum, Davao Region, Philippines
+
+**Junior Web Developer** · *Jul 2023 – Nov 2025*
 - Develop and maintain enterprise web applications using Java, JSF, and PrimeFaces
 - Design, implement, and optimize database structures using MySQL and SQL-based tools
 - Conduct debugging, troubleshooting, and performance enhancements for existing systems
 - Collaborate with QA and product teams to refine functionality and improve system stability
 - Build responsive UI/UX components using HTML5, CSS, and JavaScript
 
-**Junior Functional Assistant** · *January 2025 – August 2025*
+**Junior Functional Assistant** · *Jan 2025 – Aug 2025*
 - Conduct requirement gathering and translate client needs into functional specifications
 - Perform system configuration, process mapping, and functional testing
-- Facilitate user acceptance testing and support implementation activities
 
-**Product Specialist** · *October 2024 – August 2025*
+**Product Specialist** · *Oct 2024 – Aug 2025*
 - Conduct product testing, feature evaluation, and QA review for ongoing releases
 - Prepare technical documentation, user manuals, and product demonstration materials
-- Analyze product data to identify improvement areas and propose enhancements
 
-**Internship Trainee** · *June 2022 – August 2022*
+**Internship Trainee** · *Jun 2022 – Aug 2022*
 - Developed user interfaces using HTML5, CSS3, JavaScript, and Bootstrap
-- Improved UI responsiveness, accessibility, and mobile compatibility
 
-### 🏭 Sumifru (Philippines) Corporation – Davao
-**Factory Worker** · *July 2016 – June 2017*
-> Mawab, Davao Region, Philippines
+</details>
 
----
+<details>
+<summary><b>🏭 Sumifru (Philippines) Corporation – Davao — Factory Worker</b>&nbsp;&nbsp;<code>Jul 2016 – Jun 2017</code></summary>
+<br/>
 
-## 🎓 Education
+> 📍 Mawab, Davao Region, Philippines
 
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| 🎓 **Master in Legal Studies - Juris Doctor (MLS-JD)**, Law | St. Mary's College of Tagum, Inc. | July 2025 – June 2030 |
-| 🤖 **Artificial Intelligence with Python** | Harvard Online | March 2025 – May 2025 |
-| 💻 **Bachelor of Science in Computer Science**, Data Science | St. Mary's College of Tagum, Inc. | June 2019 – May 2023 |
-| 🔧 **Computer System Servicing (CSS)** | Lorenzo S. Sarmiento Sr. National High School | March 2016 – May 2019 |
+</details>
 
 ---
 
-## 📜 Certifications
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" /> &nbsp;Education
 
-- 🏅 IP System and IP Policy Development Workshop Certificate
-- 🏅 Java Programming For Complete Beginners Using Eclipse IDE
-
-## 🏆 Honors & Awards
-
-- 🎖️ **With Honors** — Bachelor of Science in Computer Science
-
----
-
-## 🌐 Languages
-
-![English](https://img.shields.io/badge/English-Fluent-success?style=flat-square)
-![Cebuano](https://img.shields.io/badge/Cebuano-Fluent-success?style=flat-square)
-![Tagalog](https://img.shields.io/badge/Tagalog-Fluent-success?style=flat-square)
+| | Degree | Institution | Period |
+|:---:|--------|-------------|--------|
+| ⚖️ | **Master in Legal Studies - Juris Doctor (MLS-JD)** | St. Mary's College of Tagum, Inc. | `2025 – 2030` |
+| 🤖 | **Artificial Intelligence with Python** | Harvard Online | `2025` |
+| 💻 | **BSc Computer Science** — Data Science | St. Mary's College of Tagum, Inc. | `2019 – 2023` |
+| 🔧 | **Computer System Servicing (CSS)** | Lorenzo S. Sarmiento Sr. National High School | `2016 – 2019` |
 
 ---
 
-## 🤝 Other Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> &nbsp;Certifications & Honors
 
-![Software Testing & QA](https://img.shields.io/badge/Software_Testing_&_QA-444?style=flat-square)
-![Functional Analysis](https://img.shields.io/badge/Functional_Analysis-444?style=flat-square)
-![Research & Documentation](https://img.shields.io/badge/Research_&_Documentation-444?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-444?style=flat-square)
-![Technical Communication](https://img.shields.io/badge/Technical_Communication-444?style=flat-square)
+🏅 IP System and IP Policy Development Workshop Certificate
+🏅 Java Programming For Complete Beginners Using Eclipse IDE
+🎖️ **With Honors** — Bachelor of Science in Computer Science
 
 ---
 
-## 📫 Contact
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Americas.png" width="28" /> &nbsp;Languages & Soft Skills
 
-| | |
-|---|---|
-| 📞 **Phone** | 0951-383-0615 |
-| ✉️ **Email** | ninoagustin16@gmail.com |
-| 🔗 **LinkedIn** | [linkedin.com/in/jklmnino01](https://www.linkedin.com/in/jklmnino01) |
-| 📍 **Location** | Mawab, Davao de Oro, Philippines |
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Fluent-25A162?style=for-the-badge)
+![Cebuano](https://img.shields.io/badge/Cebuano-Fluent-25A162?style=for-the-badge)
+![Tagalog](https://img.shields.io/badge/Tagalog-Fluent-25A162?style=for-the-badge)
+
+<br/>
+
+![Software Testing & QA](https://img.shields.io/badge/Software_Testing_&_QA-1a2744?style=for-the-badge)
+![Functional Analysis](https://img.shields.io/badge/Functional_Analysis-1a2744?style=for-the-badge)
+![Research & Documentation](https://img.shields.io/badge/Research_&_Documentation-1a2744?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-1a2744?style=for-the-badge)
+![Technical Communication](https://img.shields.io/badge/Technical_Communication-1a2744?style=for-the-badge)
+
+</div>
 
 ---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" /> &nbsp;GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enclaveagustin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&icon_color=4a6fa5&text_color=c8d6e5" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=enclaveagustin&theme=tokyonight&hide_border=true&background=0D1117&stroke=4a6fa5&ring=4a6fa5&fire=FF6C37&currStreakLabel=c8d6e5&sideLabels=c8d6e5&dates=6b7c93" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enclaveagustin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&text_color=c8d6e5" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28" /> &nbsp;Get In Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/ninoagustin16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ninoagustin16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/jklmnino01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jklmnino01)
+[![Phone](https://img.shields.io/badge/0951--383--0615-25A162?style=for-the-badge&logo=phone&logoColor=white)]()
+
+</div>
+
+---
+
+<div align="center">
 
 ### 📝 Reference
 
@@ -185,10 +365,8 @@ With over **seven years of experience** in academic research and consultancy, I 
 *Program Head – Computer Science, SMCTI*
 📞 0915-730-6128
 
+</div>
+
 ---
 
-<div align="center">
-
-From [enclaveagustin](https://github.com/enclaveagustin)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,100:4a6fa5&height=120&section=footer" />
