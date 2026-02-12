@@ -56,19 +56,19 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
 <br><b>Python</b>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48" />
 <br><b>Java</b>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
 <br><b>JavaScript</b>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
 <br><b>TypeScript</b>
 </td>
 <td align="center" width="96">
@@ -94,7 +94,7 @@
 <br><b>SQL</b>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" />
 <br><b>C#</b>
 </td>
 <td align="center" width="96">
@@ -109,7 +109,7 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="48" height="48" />
 <br><b>Django</b>
 </td>
 <td align="center" width="96">
@@ -135,7 +135,7 @@
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />
 <br><b>React</b>
 </td>
 <td align="center" width="96">
@@ -189,7 +189,7 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
 <br><b>Docker</b>
 </td>
 <td align="center" width="96">
@@ -197,7 +197,7 @@
 <br><b>Git</b>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
 <br><b>GitHub</b>
 </td>
 <td align="center" width="96">
@@ -337,12 +337,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enclaveagustin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&icon_color=4a6fa5&text_color=c8d6e5&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enclaveagustin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&icon_color=4a6fa5&text_color=c8d6e5&count_private=true&v=2" />
 <img width="49%" src="https://streak-stats.demolab.com?user=enclaveagustin&theme=tokyonight&hide_border=true&background=0D1117&stroke=4a6fa5&ring=4a6fa5&fire=FF6C37&currStreakLabel=c8d6e5&sideLabels=c8d6e5&dates=6b7c93" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enclaveagustin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&text_color=c8d6e5&count_private=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enclaveagustin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4a6fa5&text_color=c8d6e5&count_private=true&v=2" />
 
 </div>
 
