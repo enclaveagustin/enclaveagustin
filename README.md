@@ -270,11 +270,11 @@
 <br><b>n8n</b>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/codeium/09B6A2" alt="Windsurf" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/windsurf/09B6A2" alt="Windsurf" width="48" height="48" />
 <br><b>Windsurf</b>
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Antigravity" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" alt="Antigravity" width="48" height="48" />
 <br><b>Antigravity</b>
 </td>
 <td align="center" width="96">
@@ -298,6 +298,10 @@
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MERN Stack" width="48" height="48" />
 <br><b>MERN Stack</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" alt="Diagrams.net" width="48" height="48" />
+<br><b>Diagrams.net</b>
 </td>
 </tr>
 </table>
