@@ -113,8 +113,12 @@
 <br><b>JSON</b>
 </td>
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="48" height="48" />
+<br><b>GraphQL</b>
 </td>
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="48" height="48" />
+<br><b>SCSS</b>
 </td>
 <td align="center" width="96">
 </td>
@@ -185,6 +189,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
 <br><b>TensorFlow</b>
 </td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+<br><b>Node.js</b>
+</td>
 </tr>
 </table>
 
@@ -246,6 +254,50 @@
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" />
 <br><b>Figma</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="48" height="48" />
+<br><b>Kubernetes</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="48" height="48" />
+<br><b>Notion</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="48" height="48" />
+<br><b>n8n</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/codeium/09B6A2" alt="Windsurf" width="48" height="48" />
+<br><b>Windsurf</b>
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Antigravity" width="48" height="48" />
+<br><b>Antigravity</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48" />
+<br><b>Postman</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="48" height="48" />
+<br><b>Jira</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="48" height="48" />
+<br><b>Azure</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" />
+<br><b>AWS</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MERN Stack" width="48" height="48" />
+<br><b>MERN Stack</b>
 </td>
 </tr>
 </table>
