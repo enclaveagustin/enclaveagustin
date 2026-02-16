@@ -193,6 +193,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
 <br><b>Node.js</b>
 </td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/primefaces/263238" alt="PrimeFaces" width="48" height="48" />
+<br><b>PrimeFaces</b>
+</td>
 </tr>
 </table>
 
