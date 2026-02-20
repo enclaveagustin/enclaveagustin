@@ -197,6 +197,10 @@
 <img src="https://cdn.simpleicons.org/primefaces/263238" alt="PrimeFaces" width="48" height="48" />
 <br><b>PrimeFaces</b>
 </td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="48" height="48" />
+<br><b>Vite</b>
+</td>
 </tr>
 </table>
 
@@ -306,6 +310,10 @@
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" alt="Diagrams.net" width="48" height="48" />
 <br><b>Diagrams.net</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" width="48" height="48" />
+<br><b>JWT</b>
 </td>
 </tr>
 </table>
